@@ -1,6 +1,9 @@
-<<<<<<< HEAD
+
 Helow Branches
-=======
+
 
 Hola Mundo Git
->>>>>>> miNewBranch
+
+
+I'm The Third Line
+
